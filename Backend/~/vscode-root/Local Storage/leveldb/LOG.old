@@ -1,9 +1,0 @@
-2024/08/02-19:31:56.813 4e90 Reusing MANIFEST /home/abhishek_asgola/Nap_Queens/Backend/~/vscode-root/Local Storage/leveldb/MANIFEST-000001
-2024/08/02-19:31:56.814 4e90 Recovering log #3
-2024/08/02-19:31:56.814 4e90 Reusing old log /home/abhishek_asgola/Nap_Queens/Backend/~/vscode-root/Local Storage/leveldb/000003.log 
-2024/08/02-19:51:41.040 4e92 Level-0 table #5: started
-2024/08/02-19:51:41.054 4e92 Level-0 table #5: 15266 bytes OK
-2024/08/02-19:51:41.058 4e92 Delete type=0 #3
-2024/08/02-21:23:57.650 4e92 Level-0 table #7: started
-2024/08/02-21:23:57.665 4e92 Level-0 table #7: 14828 bytes OK
-2024/08/02-21:23:57.669 4e92 Delete type=0 #4
