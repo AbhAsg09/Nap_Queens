@@ -9,3 +9,6 @@
     at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109791)
     at SimpleURLLoaderWrapper.emit (node:events:514:28)
 2024-08-02 21:41:56.993 [info] update#setState idle
+2024-08-02 22:41:46.985 [info] update#setState checking for updates
+2024-08-02 22:41:48.366 [info] update#setState available for download
+2024-08-02 23:06:19.356 [info] Extension host with pid 26245 exited with code: 0, signal: unknown.
