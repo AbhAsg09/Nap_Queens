@@ -1,0 +1,6 @@
+2024-08-02 19:31:56.899 [info] update#setState idle
+2024-08-02 19:32:26.901 [info] update#setState checking for updates
+2024-08-02 19:32:26.915 [info] update#setState available for download
+2024-08-02 21:12:49.596 [error] CodeWindow: failed to load (reason: ERR_NAME_NOT_RESOLVED, code: -105)
+2024-08-02 21:13:08.490 [error] CodeWindow: failed to load (reason: ERR_NETWORK_CHANGED, code: -21)
+2024-08-02 21:41:08.023 [info] Extension host with pid 20207 exited with code: 0, signal: unknown.

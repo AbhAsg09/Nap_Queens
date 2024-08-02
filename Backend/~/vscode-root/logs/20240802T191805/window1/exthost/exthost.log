@@ -1,0 +1,48 @@
+2024-08-02 19:18:08.685 [info] Extension host with pid 18021 started
+2024-08-02 19:18:08.685 [info] Skipping acquiring lock for /home/abhishek_asgola/Nap_Queens/Backend/~/vscode-root/User/workspaceStorage/b7cc165bf2699ae5cfac7ad3e3ad1374.
+2024-08-02 19:18:08.770 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-08-02 19:18:08.775 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-08-02 19:18:08.812 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-02 19:18:08.855 [info] Eager extensions activated
+2024-08-02 19:18:08.858 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 19:18:08.861 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 19:18:13.503 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-08-02 19:18:13.577 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: false, activationEvent: '*'
+2024-08-02 19:18:37.738 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-02 19:20:46.184 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-02 19:20:46.196 [info] Extension host with pid 18021 exiting with code 0
+2024-08-02 19:20:46.473 [info] Extension host with pid 18366 started
+2024-08-02 19:20:46.473 [info] Skipping acquiring lock for /home/abhishek_asgola/Nap_Queens/Backend/~/vscode-root/User/workspaceStorage/b7cc165bf2699ae5cfac7ad3e3ad1374.
+2024-08-02 19:20:46.476 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-08-02 19:20:46.478 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-02 19:20:46.486 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-08-02 19:20:46.505 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-08-02 19:20:46.546 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-08-02 19:20:46.558 [info] Eager extensions activated
+2024-08-02 19:20:46.562 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 19:20:46.564 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-02 19:20:48.962 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: false, activationEvent: '*'
+2024-08-02 19:22:04.557 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-08-02 19:22:53.548 [error] TypeError: Cannot read properties of undefined (reading 'webview')
+	at n.value (/root/.vscode/extensions/blackboxapp.blackbox-1.3.69/out/extension.js:5893:17)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at r.C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:807)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:1023)
+	at w.$onMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:19346)
+	at S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5986)
+	at S.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5752)
+	at S.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4778)
+	at S.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3830)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2297)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at o.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:8639)
+	at r.B (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:954)
+	at o.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6765)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-02 19:24:03.292 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-02 19:24:03.306 [info] Extension host with pid 18366 exiting with code 0

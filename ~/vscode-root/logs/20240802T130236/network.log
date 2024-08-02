@@ -1,0 +1,14 @@
+2024-08-02 13:02:51.275 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2024-08-02 13:02:51.582 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729 - error undefined net::ERR_INTERNET_DISCONNECTED
+2024-08-02 13:02:51.589 [error] electron #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729 - error undefined net::ERR_INTERNET_DISCONNECTED
+2024-08-02 13:02:53.093 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 13:02:53.613 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 14:18:09.020 [error] electron #72: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2024-08-02 14:23:21.031 [error] electron #73: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2024-08-02 14:54:18.714 [error] electron #80: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 14:54:18.715 [error] electron #81: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 16:54:38.350 [error] electron #150: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-08-02 16:54:38.352 [error] electron #151: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-08-02 17:14:41.557 [error] electron #180: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 17:14:41.559 [error] electron #179: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-08-02 17:32:53.462 [error] electron #198: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
